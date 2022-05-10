@@ -1,18 +1,57 @@
 body{
     
     background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    
 }
 .rectangle-one{
     display: flex;
-    background-color: #FFF;
+    justify-content: center;
+    flex-wrap: wrap;
     width: 320px;
     height: 497px;
-    
-    justify-content: center;
+    background-color:  hsl(0, 0%, 100%);
     box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+    border-radius: 20px;
 }
 .rectangle-two{
     width: 288px;
     height: 288px;
+    margin-top: 16px;
     
+    
+    
+    
+}
+.rectangle-two img{
+    width: 100%;
+    border-radius: 20px;
+    shadow
+}
+
+.rectangle-three{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    height: 56px;
+    width: 288px;
+    color: #1f314f;
+}
+
+.rectangle-four{
+    width: 256px;
+    height: 57px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.1875;
+    color: #7d889e;
+
 }

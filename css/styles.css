@@ -1,0 +1,18 @@
+body{
+    
+    background-color: hsl(212, 45%, 89%);
+}
+.rectangle-one{
+    display: flex;
+    background-color: #FFF;
+    width: 320px;
+    height: 497px;
+    
+    justify-content: center;
+    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+}
+.rectangle-two{
+    width: 288px;
+    height: 288px;
+    
+}

@@ -11,7 +11,7 @@ body{
     justify-content: center; /* center code horizontally */
    
     
-    min-height: 100vh;
+    min-height: 80vh;
     flex-wrap: wrap;
     width: 320px;
     height: 497px;
